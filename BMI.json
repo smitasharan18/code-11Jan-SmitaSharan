@@ -1,0 +1,14 @@
+[[{"Gender": "Male", "HeightCm": 171, "WeightKg": 96 },
+  { "Gender": "Male", "HeightCm": 161, "WeightKg" : 85 },
+  { "Gender": "Male", "HeightCm": 180, "WeightKg": 77 },
+  { "Gender" : "Female", "HeightCm": 166, "WeightKg": 62},
+  { "Gender": "Female", "HeightCm": 150, "WeightKg": 70},
+  { "Gender" : "Female", "HeightCm": 167, "WeightKg":82}],
+[{"BMI Category": "Underweight", "BMIRange":"18.4 and below","HealthRisk":"Malnutrition risk"},
+  {"BMI Category": "Normal weight", "BMIRange":"18.5 - 24.9","HealthRisk":"Low risk"},
+  {"BMI Category": "Overweight", "BMIRange":"25 - 29.9","HealthRisk":"Enhanced risk"},
+  {"BMI Category": "Moderately obese", "BMIRange":"30-34.9","HealthRisk":"Medium risk"},
+  {"BMI Category": "Severely obese", "BMIRange":"35-39.9","HealthRisk":"High risk"},
+  {"BMI Category": "Very severely obese", "BMIRange":"40 and above","HealthRisk":"Very high risk"}
+  ]
+  ]
